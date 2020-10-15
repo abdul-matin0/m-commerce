@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "485777931873",
+    "firebase_url": "https://m-commerce-cb15f.firebaseio.com",
+    "project_id": "m-commerce-cb15f",
+    "storage_bucket": "m-commerce-cb15f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:485777931873:android:8e5bd1417471fa77b57420",
+        "android_client_info": {
+          "package_name": "com.abdulmatin.m_commerce"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "485777931873-0pboqtm8plt4sqi04ghktkf5rlma60oi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC31L77osbY-SU0qcQwXjj8W9SdsNMSkBc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "485777931873-0pboqtm8plt4sqi04ghktkf5rlma60oi.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
