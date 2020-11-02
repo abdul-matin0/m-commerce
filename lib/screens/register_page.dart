@@ -72,7 +72,7 @@ class _RegisterPageState extends State<RegisterPage> {
         _registerFormLoading = false;
       });
     }else{
-      //no errors navigate to login page
+      //no errors navigate to home page
       Navigator.pop(context);
     }
   }

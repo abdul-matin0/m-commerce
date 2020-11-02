@@ -51,6 +51,7 @@ class CustomBtn extends StatelessWidget {
                 ),
               ),
             ),
+
             Visibility(
               visible: _isLoading ? true : false,
               child: Center(
